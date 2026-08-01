@@ -3,7 +3,7 @@ Yet Another Neofetch Clone is a fetch program inspired by neofetch but written i
 ----------------------
 <img src="pictures/main.png" alt="Example Picture">
 ----------------------
-<br>
+
 # Installation
 
 > Install Dependencies for cloning repo (git, fakeroot, debugedit)<br>
