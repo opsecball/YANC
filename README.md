@@ -5,6 +5,5 @@ Yet Another Neofetch Clone is a fetch program inspired by neofetch but written i
 # Installation
 
 > Install Dependencies for cloning repo (git, fakeroot, debugedit)
-> Clone the repo ```git clone https://github.com/opsecball/yanc.git```
-> Build the repo from source ```cd yanc && makepkg -si```
-> Usage ```yanc```
+> From inside of the repo, compile the source: ```makepkg -si```
+> Usage: ```yanc```
