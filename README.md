@@ -1,7 +1,9 @@
 Yet Another Neofetch Clone is a fetch program inspired by neofetch but written in python instead of C, built for linux.
 <br><br>
+----------------------
 <img src="pictures/main.png" alt="Example Picture">
-
+----------------------
+<br>
 # Installation
 
 > Install Dependencies for cloning repo (git, fakeroot, debugedit)<br>
