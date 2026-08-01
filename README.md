@@ -2,7 +2,6 @@ Yet Another Neofetch Clone is a fetch program inspired by neofetch but written i
 <br><br>
 ----------------------
 <img src="pictures/main.png" alt="Example Picture">
-----------------------
 
 # Installation
 
